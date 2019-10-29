@@ -22,6 +22,7 @@ To download it you can use the green **Clone or download** button above, and the
 - Dictionaries
 - List comprehension
 - Functions
+- [Slides](./week2/2-IDEs-dict-comprehension-functions.pdf)
 
 [Notebook for week 2 on Google Colab](https://colab.research.google.com/drive/1V9L13fY7YPr_e80AvXjo9o8KjZCKYoZQ)
 
@@ -32,6 +33,10 @@ To download it you can use the green **Clone or download** button above, and the
 - Algorithms and Big O notation
 - Modules
 - Plotting using `matplotlib`
+- Slides: [Part 1](./week3/3.1-fileio-lambda-algorithms.pdf), [Part 2](./week3/3.2-modules-matplotlib.pdf)
+- Exercise: [Loop exercises](./week3/Loop_Exercises.ipynb) ([Answers](./week3/Loop_Exercises_solution.ipynb))
+
+[Answers of the notebook on Google Colab](https://colab.research.google.com/drive/1gbS1M4I1nPE0At3i4jNNJg4rCwzvcD-3)
 
 ## Week 4
 - `namedtuple`
