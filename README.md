@@ -37,7 +37,7 @@ To download it you can use the green **Clone or download** button above, and the
 - `namedtuple`
 - Keyword arguments
 - `Counter`
-- Exercise: building a search engine
+- Exercise: [Building a search engine](./week4/README.md)
 
 ## Week 5-6
 - Case
