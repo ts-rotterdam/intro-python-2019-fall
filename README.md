@@ -14,6 +14,7 @@ To download it you can use the green **Clone or download** button above, and the
 - Terminal I/O
 - Collections
 - Control flow
+
 [Notebook for week 1 on Google Colab](https://colab.research.google.com/drive/1ZLMXd8WS91FyrC1hQ7YpoJIdRaDVKRng)
 
 ## Week 2
@@ -21,6 +22,7 @@ To download it you can use the green **Clone or download** button above, and the
 - Dictionaries
 - List comprehension
 - Functions
+
 [Notebook for week 2 on Google Colab](https://colab.research.google.com/drive/1V9L13fY7YPr_e80AvXjo9o8KjZCKYoZQ)
 
 ## Week 3
