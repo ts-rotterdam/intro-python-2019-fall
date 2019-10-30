@@ -43,6 +43,7 @@ To download it you can use the green **Clone or download** button above, and the
 - Keyword arguments
 - `Counter`
 - Exercise: [Building a search engine](./week4/README.md)
+  - [Python cheatsheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf) for quick reference
 
 ## Week 5-6
 - Case
