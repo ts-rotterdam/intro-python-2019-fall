@@ -46,4 +46,5 @@ To download it you can use the green **Clone or download** button above, and the
   - [Python cheatsheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf) for quick reference
 
 ## Week 5-6
-- Case
+### Case: Engineer Discover Weekly
+- [Part 1](https://colab.research.google.com/drive/1ifx6f_SzzPeglE6ZZQuaXvPhuVnPhCUW)
